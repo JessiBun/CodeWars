@@ -1,0 +1,15 @@
+// Complete the square sum function so that it squares each number passed into it and then sums the results together.
+
+public class Kata
+ {
+  public static int squareSum(int[] n)
+  { 
+    int result = 0;
+    for (int i = 0; i < n.length; i++) {
+      double num = n[i];
+      double sum = Math.pow(num, 2);
+      result += (int) sum;
+      }
+   return result;
+  }
+ }
