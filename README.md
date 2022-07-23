@@ -15,3 +15,4 @@ For my Advanced Java Programming (COP2805), I have to do a weekly CodeWars Chall
 * [Correct the mistakes of the character recognition software](https://github.com/JessiBun/CodeWars/blob/main/Correct%20the%20mistakes%20of%20the%20character%20recognition%20software)
 * [Transportation on vacation ](https://github.com/JessiBun/CodeWars/blob/main/Transportation%20on%20vacation)
 * [Disemvowel Trolls](https://github.com/JessiBun/CodeWars/blob/main/Disemvowel%20Trolls)
+* [String ends with?](https://github.com/JessiBun/CodeWars/blob/main/String%20ends%20with%3F)
